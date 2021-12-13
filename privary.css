@@ -1,0 +1,22 @@
+body{
+    background-color: #000000;
+    color: rgb(255, 253, 253);  
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    background-color: #111111;
+    border-radius: 16px;
+    margin: 20px;
+    padding: 20px;
+}
+h1{
+    color: rgb(240, 53, 91);
+}
+.title{
+    display: flex;
+}
+.logo{
+    height: 40px;
+    margin-right: 20px;
+}
